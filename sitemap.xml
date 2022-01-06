@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/alex-shpak/hugo-book/posts/</loc>
+    <loc>/posts/</loc>
   </url><url>
-    <loc>https://github.com/alex-shpak/hugo-book/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://github.com/alex-shpak/hugo-book/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://github.com/alex-shpak/hugo-book/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
