@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on tomato</title>
-    <link>https://github.com/superkirk3/hugo-book/</link>
+    <link>/</link>
     <description>Recent content in Introduction on tomato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jan 2022 16:39:14 +0800</lastBuildDate><atom:link href="https://github.com/superkirk3/hugo-book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 16:39:14 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picture</title>
-      <link>https://github.com/superkirk3/hugo-book/posts/picture/</link>
+      <link>/posts/picture/</link>
       <pubDate>Thu, 06 Jan 2022 16:39:14 +0800</pubDate>
       
-      <guid>https://github.com/superkirk3/hugo-book/posts/picture/</guid>
+      <guid>/posts/picture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>123rd</title>
-      <link>https://github.com/superkirk3/hugo-book/posts/123/</link>
+      <link>/posts/123/</link>
       <pubDate>Thu, 06 Jan 2022 16:36:18 +0800</pubDate>
       
-      <guid>https://github.com/superkirk3/hugo-book/posts/123/</guid>
+      <guid>/posts/123/</guid>
       <description></description>
     </item>
     

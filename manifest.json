@@ -1,14 +1,14 @@
 {
   "name": "tomato",
   "short_name": "tomato",
-  "start_url": "/superkirk3/hugo-book/",
-  "scope": "/superkirk3/hugo-book/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/superkirk3/hugo-book/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
