@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on tomato</title>
-    <link>/</link>
+    <link>hugo-book/</link>
     <description>Recent content in Introduction on tomato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jan 2022 16:39:14 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 16:39:14 +0800</lastBuildDate><atom:link href="hugo-book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picture</title>
-      <link>/posts/picture/</link>
+      <link>hugo-book/posts/picture/</link>
       <pubDate>Thu, 06 Jan 2022 16:39:14 +0800</pubDate>
       
-      <guid>/posts/picture/</guid>
+      <guid>hugo-book/posts/picture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>123rd</title>
-      <link>/posts/123/</link>
+      <link>hugo-book/posts/123/</link>
       <pubDate>Thu, 06 Jan 2022 16:36:18 +0800</pubDate>
       
-      <guid>/posts/123/</guid>
+      <guid>hugo-book/posts/123/</guid>
       <description></description>
     </item>
     
