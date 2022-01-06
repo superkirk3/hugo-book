@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on tomato</title>
+    <title>Blog on tomato</title>
     <link>hugo-book/posts/</link>
-    <description>Recent content in Posts on tomato</description>
+    <description>Recent content in Blog on tomato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jan 2022 16:39:14 +0800</lastBuildDate><atom:link href="hugo-book/posts/index.xml" rel="self" type="application/rss+xml" />
